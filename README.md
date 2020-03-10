@@ -1,5 +1,11 @@
 # express-graceful-exit
 
+## Please use the original repo
+
+I'm now the maintainer of that repo and this one is out of date.
+
+__See https://github.com/emostar/express-graceful-exit__
+
 A component in having zero downtime deploys for Node.js with [Express](http://expressjs.com/). It was developed for Express 3.X, so it may need work to be compatible with Express 2.X
 
 This module was developed for [Frafty](https://www.frafty.com/), a Daily Fantasy Sports site.
